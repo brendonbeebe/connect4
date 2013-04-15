@@ -1,0 +1,111 @@
+/* Height hack for float wrappers */
+.services {
+    overflow: 0px;
+    margin: 0px;
+
+}
+
+.auth-icon {
+    display: block;
+    width: 32px;
+    height: 32px;
+    background: url("../images/auth.png") no-repeat;
+}
+
+.auth-icon.google, 
+.auth-icon.google_oauth  { background-position: 0 -34px;  }
+.auth-icon.twitter    	 { background-position: 0 -68px;  }
+.auth-icon.yandex,
+.auth-icon.yandex_oauth  { background-position: 0 -102px; }
+.auth-icon.vkontakte	 { background-position: 0 -136px; }
+.auth-icon.facebook		 { background-position: 0 -170px; }
+.auth-icon.mailru		 { background-position: 0 -204px; }
+.auth-icon.moikrug		 { background-position: 0 -238px; }
+.auth-icon.odnoklassniki { background-position: 0 -272px; }
+.auth-icon.linkedin    	 { background-position: 0 -306px; }
+.auth-icon.github      	 { background-position: 0 -340px; }
+.auth-icon.live      	 { background-position: 0 -372px; }
+
+.auth-link:hover .auth-icon i,
+.auth-link:focus .auth-icon i {
+    display: block;
+    width: 32px;
+    height: 32px;
+    background: url("../images/auth.png") 0 0 no-repeat;
+}
+
+.auth-services {
+    margin: 0 0;
+    list-style: none;
+	/* Height hack for float wrappers */
+    overflow:auto;
+}
+    
+.auth-service {
+    float: left;
+    margin: 0 0 0 0;
+}
+      
+.auth-services .auth-service .auth-link {
+    display: block;
+    width: 58px;
+    /*padding: 0 0.4em;*/
+}
+
+.auth-service .auth-link .auth-icon {
+    margin: 0 auto;
+}
+          
+.auth-service .auth-link .auth-title {
+    display: block;
+    margin-top: 0em;
+    text-align: center;
+}
+
+.connect-social-btn {
+    background-image: url("/img/blank_background.png");
+    border-radius: 0px;
+    width: 35% !important;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    border: 1px solid lightgrey;
+    font-weight: bold;
+}
+
+.social-setting {
+    width: 100%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+
+.social-icon-label {
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+
+.social-connected-div {
+    float: left;
+    width: 60%;
+    height: 80px;
+    padding-top: 20px;
+}
+
+.social-service-connected {
+    font-weight: bold;
+}
+
+.delete-social-service {
+    color: #2AAAEA;
+    font-weight: bold;
+    padding-left: 10%;
+    cursor: pointer;
+}
+
+.social_link_unlink_message {
+    color: red;
+    margin-top: 15px;
+    text-align: center;
+}

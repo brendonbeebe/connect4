@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2db67958-0737-417a-b03e-7d2306c42917" name="Default" comment="" />
+    <ignored path="CS462.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/EventController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365652243174" ignored="false" />
+    <file path="$PROJECT_DIR$/../CS462/protected/controllers/UserController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363662105456" ignored="false" />
+    <file path="/UserController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1364948491023" ignored="false" />
+    <file path="/index.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365838282341" ignored="false" />
+    <file path="$PROJECT_DIR$/../CS462/protected/models/DeliveryReadyForm.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363590358095" ignored="false" />
+    <file path="$PROJECT_DIR$/../CS462/protected/views/delivery/_view.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363591332994" ignored="false" />
+    <file path="/_view.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363591326826" ignored="false" />
+    <file path="/WebUser.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365481237386" ignored="false" />
+    <file path="/eslcreation.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363655713355" ignored="false" />
+    <file path="/SiteController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661899628" ignored="false" />
+    <file path="/_form.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363660303529" ignored="false" />
+    <file path="/Flowershop.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363661666706" ignored="false" />
+    <file path="$PROJECT_DIR$/../CS462/protected/controllers/EventController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363662989736" ignored="false" />
+    <file path="$PROJECT_DIR$/../CS462/protected/views/layouts/main.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1363664103655" ignored="false" />
+    <file path="/login.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365654685457" ignored="false" />
+    <file path="$PROJECT_DIR$/../CS462/protected/config/main.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1364373391761" ignored="false" />
+    <file path="C:/wamp/www/CS462/protected/controllers/UserController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1364948492095" ignored="false" />
+    <file path="$PROJECT_DIR$/../CS462driver/protected/controllers/EventController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365027722960" ignored="false" />
+    <file path="C:/wamp/www/CS462/protected/controllers/EventController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365045545096" ignored="false" />
+    <file path="/Dummy.txt" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365660680508" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/modules/api/controllers/SuggestionsController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365096226480" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/controllers/SuggestionsController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365700300126" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/components/MMWebAppClient.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365700300126" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/components/MMCore.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365700300126" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/suggestions/MatchmakerSuggestions.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365101286871" ignored="false" />
+    <file path="/MatchmakerSuggestions.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365101286871" ignored="false" />
+    <file path="/a.dummy" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365832465681" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/js/matchmaker_suggestion.js" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365097126801" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/css/animate.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365098851772" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/css/matchmate_suggestions.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365831475333" ignored="false" />
+    <file path="/matchmate_suggestions.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365102129588" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/iphone/matches.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365099009381" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/css/matchmate_iphone.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365715184437" ignored="false" />
+    <file path="/matchmate_iphone.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365715149908" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/layouts/main.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365839564255" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/match/inviteMoreHelper.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365100879560" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/match/new_simple_network.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365100913184" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/network/suggest.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365100950457" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/config/main.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661057908" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/components/UserIdentity.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661498630" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/models/Users.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365481100576" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/views/site/login.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661090269" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/controllers/SiteController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661905973" ignored="false" />
+    <file path="/UserIdentity.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365659156304" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/views/layouts/main.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365796303075" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/views/site/index.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365477334647" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/components/FSCore.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365479846989" ignored="false" />
+    <file path="/FSCore.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365479837764" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/config/main.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365700745037" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/controllers/UsersController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365796117824" ignored="false" />
+    <file path="/UsersController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365647064122" ignored="false" />
+    <file path="/Users.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365481040763" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/runtime/application.log" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661806982" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/components/WebUser.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365481273917" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/views/site/game.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365487206251" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/views/users/game.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365796950883" ignored="false" />
+    <file path="/game.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365647250672" ignored="false" />
+    <file path="/main.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365833788452" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/css/main.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365571101672" ignored="false" />
+    <file path="/main.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365571093303" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/views/users/board.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365649015702" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/controllers/EventController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365647530030" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/controllers/DefaultController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365657071594" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/modules/yiiauth/components/LoginWidget.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365657748629" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/modules/yiiauth/components/views/LoginWidget.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365657740950" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/modules/yiiauth/controllers/DefaultController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365659565543" ignored="false" />
+    <file path="/DefaultController.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365658058803" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/components/Controller.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365660987487" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/themes/facebook.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365659811022" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/facebook.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365660026874" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/extensions/crugeconnector/CrugeConnector.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365660051490" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/hybridauth/Hybrid/Providers/Facebook.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365660051490" ignored="false" />
+    <file path="/auth.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661222811" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/extensions/eauth/views/auth.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661222811" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/extensions/eauth/EAuthUserIdentity.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365661576887" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/models/_base/BaseMatch.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365700300126" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/index.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365700845149" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/config/dev-matchmate.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365700899479" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/iphone/chat.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365714350621" ignored="false" />
+    <file path="/chat.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365714013193" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/js/iphone/iphone_date.js" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365706930795" ignored="false" />
+    <file path="/iphone_date.js" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365706186626" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/assets/b039646f/css/profile_auth.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365711226695" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/assets/b039646f/css/auth.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365711226695" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/iphone/matchmaker.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365715035432" ignored="false" />
+    <file path="/matchmaker.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365715030037" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/js/single_suggestions.js" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365839093623" ignored="false" />
+    <file path="/single_suggestions.js" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365838546599" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/suggestions/SingleSuggestions.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365839560099" ignored="false" />
+    <file path="/SingleSuggestions.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365836231108" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/site/index.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365838401676" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/js/default/default.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365838976780" ignored="false" />
+    <file path="/default.css" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365838976441" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/www/js/iphone/single_suggestion.js" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365839632985" ignored="false" />
+    <file path="C:/wamp/www/MatchMateMe/protected/views/layouts/iphone-layout.php" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365839799387" ignored="false" />
+    <file path="$PROJECT_DIR$/../connectFourClient/protected/views/users/homework3.html" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365978285047" ignored="false" />
+    <file path="/homework3.html" changelist="2db67958-0737-417a-b03e-7d2306c42917" time="1365978272935" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CS462" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="12" selection-start="730" selection-end="730" vertical-scroll-proportion="-11.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/views/site/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="54" selection-start="903" selection-end="903" vertical-scroll-proportion="0.51785713">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Games.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/models/Games.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="5" selection-start="2063" selection-end="2063" vertical-scroll-proportion="-12.961538">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EventController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/EventController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="252" column="37" selection-start="8772" selection-end="8772" vertical-scroll-proportion="-4.372549">
+              <folding>
+                <element signature="n#actionNotifyNode#0;n#EventController#0;n#!!top" expanded="false" />
+                <element signature="n#actionShowBoard#0;n#EventController#0;n#!!top" expanded="false" />
+                <element signature="n#sendEvent#0;n#EventController#0;n#!!top" expanded="false" />
+                <element signature="n#generateBlankBoard#0;n#EventController#0;n#!!top" expanded="false" />
+                <element signature="n#processStartGame#0;n#EventController#0;n#!!top" expanded="false" />
+                <element signature="e#10313#13128#0" expanded="false" />
+                <element signature="n#processBoardRequest#0;n#EventController#0;n#!!top" expanded="false" />
+                <element signature="n#actionConsume#0;n#EventController#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/protected/controllers/ConsumerController.php" />
+        <option value="$PROJECT_DIR$/protected/models/Bids.php" />
+        <option value="$PROJECT_DIR$/protected/models/DeliveryReadyForm.php" />
+        <option value="$PROJECT_DIR$/protected/views/site/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/checkin/index.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/protected/views/site/eslcreation.php" />
+        <option value="$PROJECT_DIR$/protected/views/user/_form.php" />
+        <option value="$PROJECT_DIR$/protected/components/WebUser.php" />
+        <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/protected/models/Flowershop.php" />
+        <option value="$PROJECT_DIR$/protected/views/flowershop/_form.php" />
+        <option value="$PROJECT_DIR$/protected/models/Delivery.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/EventController.php" />
+        <option value="$PROJECT_DIR$/protected/views/site/login.php" />
+        <option value="$PROJECT_DIR$/protected/config/main.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="271" />
+    <option name="y" value="57" />
+    <option name="width" value="1319" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS462" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS462" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectFour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS462" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectFour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS462" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectFour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS462" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectFour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CS462" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connectFour" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../connectFourClient" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\_Programs\xampp3\htdocs\CS462driver\protected\views\site" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_Programs\xampp\htdocs\CS462\protected\views\user" />
+      <recent name="D:\_Programs\xampp\htdocs\CS462\protected\views\users" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2db67958-0737-417a-b03e-7d2306c42917" name="Default" comment="" />
+      <created>1361513515104</created>
+      <updated>1361513515104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="271" y="57" width="1319" height="827" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18695307" sideWeight="0.9984496" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32887402" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/protected/controllers/UserController.php</url>
+          <line>190</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/protected/controllers/UserController.php</url>
+          <line>192</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/protected/controllers/EventController.php</url>
+          <line>55</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/protected/controllers/EventController.php</url>
+          <line>198</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/protected/models/Players.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="26" selection-start="1046" selection-end="1053" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="30" selection-start="4620" selection-end="4620" vertical-scroll-proportion="-86.42308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/eslcreation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="34" selection-start="73" selection-end="73" vertical-scroll-proportion="0.05749718" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="0" selection-start="1875" selection-end="1875" vertical-scroll-proportion="0.07272727" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/WebUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="171" selection-end="171" vertical-scroll-proportion="0.15515152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.29939395" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/user/_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="10" selection-start="771" selection-end="771" vertical-scroll-proportion="0.4848485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="14" selection-start="438" selection-end="438" vertical-scroll-proportion="0.25123152" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Players.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="26" selection-start="1046" selection-end="1053" vertical-scroll-proportion="-0.65384614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Event.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="28" selection-start="2047" selection-end="2047" vertical-scroll-proportion="0.5625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/GamesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="33" selection-start="2881" selection-end="2881" vertical-scroll-proportion="-12.423077" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="30" selection-start="2143" selection-end="2143" vertical-scroll-proportion="0.9730392" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="12" selection-start="730" selection-end="730" vertical-scroll-proportion="-11.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/EventController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="252" column="37" selection-start="8772" selection-end="8772" vertical-scroll-proportion="-4.372549">
+          <folding>
+            <element signature="n#actionNotifyNode#0;n#EventController#0;n#!!top" expanded="false" />
+            <element signature="n#actionShowBoard#0;n#EventController#0;n#!!top" expanded="false" />
+            <element signature="n#sendEvent#0;n#EventController#0;n#!!top" expanded="false" />
+            <element signature="n#generateBlankBoard#0;n#EventController#0;n#!!top" expanded="false" />
+            <element signature="n#processStartGame#0;n#EventController#0;n#!!top" expanded="false" />
+            <element signature="e#10313#13128#0" expanded="false" />
+            <element signature="n#processBoardRequest#0;n#EventController#0;n#!!top" expanded="false" />
+            <element signature="n#actionConsume#0;n#EventController#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Games.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="5" selection-start="2063" selection-end="2063" vertical-scroll-proportion="-12.961538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="54" selection-start="903" selection-end="903" vertical-scroll-proportion="0.51785713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
