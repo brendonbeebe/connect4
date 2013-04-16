@@ -1,0 +1,7 @@
+source 'http://rubygems.org'
+gem 'sinatra'
+# gem 'sinatra-activerecord'
+gem 'datamapper'
+gem 'dm-postgres-adapter'
+gem 'twilio-ruby'
+gem 'pg'
